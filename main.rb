@@ -1,3 +1,5 @@
+require './employee.rb'
+require './email_reportable'
 require './intern.rb'
 require './manager.rb'
 

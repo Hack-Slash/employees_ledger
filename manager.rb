@@ -1,6 +1,5 @@
 # add employee.rb into this file
-require './employee.rb'
-require './email_reportable.rb'
+
 module Actualize
   class Manager < Employee
     include EmailReportable
